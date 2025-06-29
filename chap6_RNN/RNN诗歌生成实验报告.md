@@ -160,7 +160,7 @@ for step in range(max_length):
 
 #### 训练截图：
 
-![训练过程](.\img\train.png)
+![训练过程](./img/train.png)
 
 ### 3.2 生成诗歌结果
 
@@ -229,7 +229,7 @@ for step in range(max_length):
 
 #### 结果截图：
 
-![实验结果](.\img\poem.png)
+![实验结果](./img/poem.png)
 
 ### 3.3 结果分析
 
